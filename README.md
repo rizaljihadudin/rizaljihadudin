@@ -4,7 +4,7 @@
 <p>
   <a href="https://github.com/rizaljihadudin/github-readme-stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizaljihadudin&count_private=true&theme=dracula" alt="Rizal Jihadudin's github stats">
-  <a href="https://github.com/rizaljihadudin/github-readme-stats">
+  </a>
   <a href="https://github.com/rizaljihadudin/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizaljihadudin&layout=compact&theme=dracula&hide_border=true" alt="Rizal Jihadudin's github top-langs"/>
   </a>
