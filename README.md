@@ -1,4 +1,4 @@
-## Heyyy! <img src="https://raw.githubusercontent.com/rizaljihadudin/main/wave.gif" width="30">
+## Heyyy! <img src="https://raw.githubusercontent.com/rizaljihadudin/rizaljihadudin/main/wave.gif" width="30">
 
 I am Rizal, currently, working as a Fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
 
