@@ -1,6 +1,6 @@
 ## Heyyy! <img src="https://raw.githubusercontent.com/rizaljihadudin/erdkse/main/wave.gif" width="30">
 
-I am Rizal, currently, working as a fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
+I am Rizal, currently, working as a Fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-RizalJihadudin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizaljihadudin/)](https://www.linkedin.com/in/rizaljihadudin/)
 [![Gmail Badge](https://img.shields.io/badge/-rizaljihadudin@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:rizaljihadudin@gmail.com)](mailto:erdikose8@gmail.com)
