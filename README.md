@@ -3,7 +3,7 @@
 I am Rizal, currently, working as a Fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-RizalJihadudin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizaljihadudin/)](https://www.linkedin.com/in/rizaljihadudin/)
-[![Gmail Badge](https://img.shields.io/badge/-rizaljihadudin@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:rizaljihadudin@gmail.com)](mailto:erdikose8@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rizaljihadudin@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:rizaljihadudin@gmail.com)](mailto:rizaljihadudin@gmail.com)
 
 ## 👨‍💻 What I am doing..
 
