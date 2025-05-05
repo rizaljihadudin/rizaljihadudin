@@ -9,6 +9,7 @@ I am Rizal, currently, working as a Fullstack developer. I like to learn new tec
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-2e2e2e?logo=codeigniter)
